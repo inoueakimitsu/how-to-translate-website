@@ -100,6 +100,8 @@ wget --recursive --level=inf --no-parent --html-extension --restrict-file-names=
 - パックの方法 (plugin のインストールが必要)
 - 原文の変更時の対応方法
 - 既に一部多言語化された原稿やホームページがある場合の流れ
+  - Align Assist (http://e-trans.d2.r-cms.jp/blog_detail/id=47)
+  - Matecat Aligner
 
 ## 参考資料
 
