@@ -102,6 +102,7 @@ wget --recursive --level=inf --no-parent --html-extension --restrict-file-names=
 - 既に一部多言語化された原稿やホームページがある場合の流れ
   - Align Assist (http://e-trans.d2.r-cms.jp/blog_detail/id=47)
   - Matecat Aligner (https://www.matecat.com/plugins/aligner/index#/)
+    - アラインメントして、tmx ファイルを生成してから始めます。最初にやっておかないと手戻りが大きいです。😟
 
 ## 参考資料
 
