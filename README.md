@@ -116,3 +116,11 @@ wget --recursive --level=inf --no-parent --html-extension --restrict-file-names=
 C:\Program Files\OmegaT\plugins または 
 
 OmegaT に機械翻訳の設定を付与します。
+
+### CAT ツールを使うメリット
+
+- 同じ文を何度も訳さなくて良い
+- 表記ゆれを減らせる
+- 複数人で作業しやすい
+- 原文の変更時の差分を自動で管理できる
+- 文法チェックを行える
