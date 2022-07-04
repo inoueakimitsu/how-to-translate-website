@@ -1,5 +1,4 @@
 # how-to-translate-website
-How to translate a website using a CAT tool
 
 ## 概要
 
@@ -85,13 +84,21 @@ wget --recursive --level=inf --no-parent --html-extension --restrict-file-names=
 
 3. 翻訳対象ファイル一覧からファイルを選び、翻訳を開始します。
 
-4. 
+### Okapi Rainbow で OmegaT 用のファイルを開き、HTML を書き出す
+
+1. Okapi Rainbow を開きます。ただし、先ほど作成した設定ファイルを開くのではないので注意してください。
+
+2. 設定ファイルを開いていない状態で、OmegaT のプロジェクトのファイル内の `manifest.rkm` を、Okapi Rainbow のファイル追加画面にドラッグアンドドロップします。
+
+3. Utilities の Translation Kit Post-Processing を実行します。
+
+4. 翻訳結果が done フォルダ内に生成されます。
 
 ## TODO
 
-- NICT
-- パックの方法
-- Manifest の保存方法
+- NICT のエンジンの設定方法
+- パックの方法 (plugin のインストールが必要)
+- 原文の変更時の対応方法
 
 ## 参考資料
 
