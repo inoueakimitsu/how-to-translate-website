@@ -101,7 +101,7 @@ wget --recursive --level=inf --no-parent --html-extension --restrict-file-names=
 - 原文の変更時の対応方法
 - 既に一部多言語化された原稿やホームページがある場合の流れ
   - Align Assist (http://e-trans.d2.r-cms.jp/blog_detail/id=47)
-  - Matecat Aligner
+  - Matecat Aligner (https://www.matecat.com/plugins/aligner/index#/)
 
 ## 参考資料
 
