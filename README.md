@@ -99,6 +99,7 @@ wget --recursive --level=inf --no-parent --html-extension --restrict-file-names=
 - NICT のエンジンの設定方法
 - パックの方法 (plugin のインストールが必要)
 - 原文の変更時の対応方法
+- 既に一部多言語化された原稿やホームページがある場合の流れ
 
 ## 参考資料
 
